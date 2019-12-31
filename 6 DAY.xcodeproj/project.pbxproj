@@ -12,6 +12,8 @@
 		8E4005D223BB3AB900BDD193 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4005D023BB3AB900BDD193 /* Main.storyboard */; };
 		8E4005D423BB3AB900BDD193 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4005D323BB3AB900BDD193 /* Assets.xcassets */; };
 		8E4005D723BB3AB900BDD193 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4005D523BB3AB900BDD193 /* LaunchScreen.storyboard */; };
+		8E4005DF23BB3B8B00BDD193 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4005DE23BB3B8B00BDD193 /* CollectionViewCell.swift */; };
+		8E4005E123BB4A2800BDD193 /* myViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4005E023BB4A2800BDD193 /* myViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8E4005D323BB3AB900BDD193 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E4005D623BB3AB900BDD193 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E4005D823BB3AB900BDD193 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E4005DE23BB3B8B00BDD193 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		8E4005E023BB4A2800BDD193 /* myViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				8E4005D323BB3AB900BDD193 /* Assets.xcassets */,
 				8E4005D523BB3AB900BDD193 /* LaunchScreen.storyboard */,
 				8E4005D823BB3AB900BDD193 /* Info.plist */,
+				8E4005DE23BB3B8B00BDD193 /* CollectionViewCell.swift */,
+				8E4005E023BB4A2800BDD193 /* myViewController.swift */,
 			);
 			path = "6 DAY";
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				8E4005CF23BB3AB900BDD193 /* ViewController.swift in Sources */,
 				8E4005CD23BB3AB900BDD193 /* AppDelegate.swift in Sources */,
+				8E4005E123BB4A2800BDD193 /* myViewController.swift in Sources */,
+				8E4005DF23BB3B8B00BDD193 /* CollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
